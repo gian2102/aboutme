@@ -1,12 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("fontawesome-all.min.css");
 
-/*
-	Aerial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -72,8 +66,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Basic */
-
 	html {
 		box-sizing: border-box;
 	}
@@ -122,8 +114,6 @@ input, select, textarea {
 			border-color: transparent;
 		}
 
-/* Icon */
-
 	.icon {
 		text-decoration: none;
 		position: relative;
@@ -154,7 +144,6 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* Wrapper */
 
 	@-moz-keyframes wrapper {
 		0% {
@@ -209,8 +198,6 @@ input, select, textarea {
 		width: 100%;
 	}
 
-/* BG */
-
 	#bg {
 		-moz-animation: bg 60s linear infinite;
 		-webkit-animation: bg 60s linear infinite;
@@ -224,7 +211,6 @@ input, select, textarea {
 		-webkit-transform: translate3d(0,0,0);
 		-ms-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
-	/* Set your background with this */
 
 		background: #348cb2 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
@@ -304,8 +290,6 @@ input, select, textarea {
 		width: 6750px;
 	}
 
-/* Overlay */
-
 	@-moz-keyframes overlay {
 		0% {
 			opacity: 0;
@@ -364,7 +348,6 @@ input, select, textarea {
 		width: 100%;
 	}
 
-/* Main */
 
 	#main {
 		height: 100%;
@@ -384,7 +367,6 @@ input, select, textarea {
 			width: 1px;
 		}
 
-/* Header */
 
 	@-moz-keyframes header {
 		0% {
@@ -726,11 +708,8 @@ input, select, textarea {
 		width: 100%;
 	}
 
-/* Wide */
 
 	@media screen and (max-width: 1680px) {
-
-		/* Basic */
 
 			body, input, select, textarea {
 				font-size: 13pt;
@@ -998,7 +977,6 @@ input, select, textarea {
 				font-size: 1em;
 			} }
 
-/* Mobile (Portrait) */
 
 	@media screen and (max-width: 480px) {
 
