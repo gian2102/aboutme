@@ -691,7 +691,6 @@ input, select, textarea {
 					display: none;
 				}
 
-/* Footer */
 
 	#footer {
 		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
@@ -715,7 +714,6 @@ input, select, textarea {
 				font-size: 13pt;
 			}
 
-		/* BG */
 
 			@-moz-keyframes bg {
 				0% {
@@ -787,17 +785,16 @@ input, select, textarea {
 			width: 4500px;
 		} }
 
-/* Normal */
 
 	@media screen and (max-width: 1280px) {
 
-		/* Basic */
+
 
 			body, input, select, textarea {
 				font-size: 12pt;
 			}
 
-		/* BG */
+
 
 			@-moz-keyframes bg {
 				0% {
@@ -869,11 +866,11 @@ input, select, textarea {
 			width: 2250px;
 		} }
 
-/* Mobile */
+
 
 	@media screen and (max-width: 736px) {
 
-		/* Basic */
+
 
 			body {
 				min-width: 320px;
@@ -883,7 +880,7 @@ input, select, textarea {
 				font-size: 11pt;
 			}
 
-		/* BG */
+
 
 			@-moz-keyframes bg {
 				0% {
@@ -955,7 +952,7 @@ input, select, textarea {
 			width: 900px;
 		}
 
-	/* Header */
+
 
 		#header h1 {
 			font-size: 2.5em;
@@ -980,7 +977,7 @@ input, select, textarea {
 
 	@media screen and (max-width: 480px) {
 
-		/* BG */
+
 
 			@-moz-keyframes bg {
 				0% {
@@ -1052,7 +1049,6 @@ input, select, textarea {
 			width: 1237.5px;
 		}
 
-	/* Header */
 
 		#header nav {
 			padding: 0 1em;
